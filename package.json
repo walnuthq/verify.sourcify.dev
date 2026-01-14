@@ -11,7 +11,7 @@
   "dependencies": {
     "@ethereum-sourcify/lib-sourcify": "^2.3.0",
     "@headlessui/react": "^2.2.4",
-    "@react-router/node": "^7.5.3",
+    "@react-router/node": "^7.9.4",
     "@react-router/serve": "^7.5.3",
     "@solidity-parser/parser": "^0.20.1",
     "diff": "^8.0.2",
